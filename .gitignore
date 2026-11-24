@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# Środowisko, bazy lokalne i IDE
+.env
+*.db
+*.sqlite3
+.vscode/
+.idea/
+.DS_Store
